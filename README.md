@@ -155,7 +155,3 @@ Feel free to contribute to this learning project by:
 1. Forking the repository
 2. Creating a feature branch
 3. Submitting a pull request
-
-## License
-
-ISC License - See LICENSE file for details
